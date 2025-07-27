@@ -2,11 +2,14 @@
 
 ## Project Overview
 
-This repository contains a comprehensive Next.js application built with TypeScript and Tailwind CSS. The project demonstrates modern web development practices including component-based architecture, API integration, and responsive design.
+This repository is part of the SoloForge: Mastering Project Autonomy project. 
+It contains a comprehensive Next.js application built with TypeScript and Tailwind CSS. The project demonstrates modern web development practices including component-based architecture, API integration, and responsive design.
 
 ## Purpose
 
-This project serves as a practical learning experience for:
+This project is designed to help me practice frontend development using modern tools and workflows, while building modular, scalable, and well-structured React applications.
+
+It would serve as a practical learning experience for:
 - Setting up a Next.js development environment
 - Building reusable React components with TypeScript
 - Implementing routing and navigation
